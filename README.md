@@ -19,6 +19,9 @@ SSD:
 https://aqua.hu/ssd-meghajto/250gb-samsung-970-evo-plus-m2-ssd-meghajto-mz-v7s250bw-t755660
 név:1TB ADATA SSD M.2 meghajtó GAMMIX S50 Lite
 ár:47 860 Ft
+https://aqua.hu/ssd-meghajto/250gb-samsung-970-evo-plus-m2-ssd-meghajto-mz-v7s250bw-t755660
+név:1TB ADATA SSD M.2 meghajtó GAMMIX S50 Lite
+ár:47 860 Ft
 
 alaplap:
 https://aqua.hu/alaplap/asus-rog-strix-z490-e-gaming-alaplap-90mb12p0-m0eay0-t918693
@@ -34,3 +37,11 @@ videókártya:
 https://aqua.hu/videokartya/asus-geforce-rtx-3090-24gb-rog-strix-oc-edition-videokartya-rog-strix-rtx3090-o24g-gaming-t941413
 név:ASUS GeForce RTX 3090 24GB ROG Strix OC Edition videokártya
 ár:1 099 900 Ft
+
+ram:
+https://aqua.hu/memoria/16gb-3600mhz-ddr4-ram-kingston-hyperx-fury-black-series-cl17-2x8gb-hx436c17fb3k216-t889225
+név:16GB 3600MHz DDR4 RAM Kingston HyperX Fury Black Series CL17 (2x8GB)
+ár:34 790 Ft
+https://aqua.hu/memoria/16gb-3600mhz-ddr4-ram-kingston-hyperx-fury-black-series-cl17-2x8gb-hx436c17fb3k216-t889225
+név:16GB 3600MHz DDR4 RAM Kingston HyperX Fury Black Series CL17 (2x8GB)
+ár:34 790 Ft
