@@ -11,9 +11,9 @@ név:Intel Core i9-7940X 3.1GHz Socket 2066 dobozos (BX80673I97940X)
 ár:514 390 Ft
 
 táp:
-https://aqua.hu/energia/apc-smart-ups-srt6krmxli-6000va-szunetmentes-tapegyseg-t483608
-név:APC Smart-UPS SRT6KRMXLI 6000VA szünetmentes tápegység
-ár: 1 855 990 Ft
+https://aqua.hu/tapegyseg/chieftec-smart-1250w-modularis-tapegyseg-gps-1250c-dobozos-t551152
+Chieftec Smart 1250W 
+65 560 Ft
 
 SSD:
 https://aqua.hu/ssd-meghajto/250gb-samsung-970-evo-plus-m2-ssd-meghajto-mz-v7s250bw-t755660
