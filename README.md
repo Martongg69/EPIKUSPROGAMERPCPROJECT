@@ -50,6 +50,7 @@ ram:
 https://aqua.hu/memoria/16gb-3600mhz-ddr4-ram-kingston-hyperx-fury-black-series-cl17-2x8gb-hx436c17fb3k216-t889225
 név:16GB 3600MHz DDR4 RAM Kingston HyperX Fury Black Series CL17 (2x8GB)
 ár:34 790 Ft
+szállító cég neve:GLS
 https://aqua.hu/memoria/16gb-3600mhz-ddr4-ram-kingston-hyperx-fury-black-series-cl17-2x8gb-hx436c17fb3k216-t889225
 név:16GB 3600MHz DDR4 RAM Kingston HyperX Fury Black Series CL17 (2x8GB)
 ár:34 790 Ft
