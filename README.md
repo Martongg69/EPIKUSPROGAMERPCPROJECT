@@ -12,11 +12,13 @@ név:Intel Core i9-7940X 3.1GHz Socket 2066 dobozos (BX80673I97940X)
 
 táp:
 https://aqua.hu/tapegyseg/chieftec-smart-1250w-modularis-tapegyseg-gps-1250c-dobozos-t551152
-Chieftec Smart 1250W 
-65 560 Ft
+név:Chieftec Smart 1250W 
+ár:65 560 Ft
 
 SSD:
 https://aqua.hu/ssd-meghajto/250gb-samsung-970-evo-plus-m2-ssd-meghajto-mz-v7s250bw-t755660
+név:1TB ADATA SSD M.2 meghajtó GAMMIX S50 Lite
+ár:47 860 Ft
 
 alaplap:
 https://aqua.hu/alaplap/asus-rog-strix-z490-e-gaming-alaplap-90mb12p0-m0eay0-t918693
