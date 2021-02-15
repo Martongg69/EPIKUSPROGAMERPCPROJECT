@@ -13,10 +13,14 @@ SSD:
 https://aqua.hu/ssd-meghajto/250gb-samsung-970-evo-plus-m2-ssd-meghajto-mz-v7s250bw-t755660
 
 alaplap:
-https://aqua.hu/alaplap/asus-tuf-b360-plus-gaming-alaplap-t613956
+https://aqua.hu/alaplap/asus-rog-strix-z490-e-gaming-alaplap-90mb12p0-m0eay0-t918693
+név:ASUS ROG STRIX Z490-E GAMING
+ár:110 590 Ft
 
 ház:
 https://aqua.hu/szamitogephaz/cooler-master-masterbox-mb520-argb-tap-nelkuli-ablakos-haz-fekete-mcb-b520-kgnn-rga-t927107
+név:Cooler Master MasterBox MB520 ARGB
+ár:29 660 Ft
 
 videókártya:
 https://aqua.hu/videokartya/asus-geforce-rtx-3090-24gb-rog-strix-oc-edition-videokartya-rog-strix-rtx3090-o24g-gaming-t941413
