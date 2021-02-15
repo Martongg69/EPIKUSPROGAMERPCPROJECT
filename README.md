@@ -1,13 +1,19 @@
 # EPIKUSPROGAMERPCPROJECT
 Nagyon meno gamer pc build 
 proci hűtő:
-https://aqua.hu/huto-ventilator/arctic-freezer-34-esports-duo-univerzalis-cpu-huto-fekete-szurke-acfre00075a-t873067
+https://aqua.hu/huto-ventilator/thermaltake-pacific-m360-plus-d5-hard-tube-vizhutes-szett-cl-w218-cu00sw-a-t826361
+név:Thermaltake Pacific M360 Plus D5 Hard Tube vízhűtés szett (CL-W218-CU00SW-A)
+ár:182 190 Ft
 
 proci:
-https://aqua.hu/processzor/intel-core-i5-9600kf-37ghz-socket-1151-dobozos-bx80684i59600kf-t800400
+https://aqua.hu/processzor/intel-core-i9-7940x-31ghz-socket-2066-dobozos-bx80673i97940x-t556018
+név:Intel Core i9-7940X 3.1GHz Socket 2066 dobozos (BX80673I97940X)
+ár:514 390 Ft
 
 táp:
-https://aqua.hu/tapegyseg/cooler-master-mwe-gold-550-full-modular-tapegyseg-mpy-5501-afaag-t766093
+https://aqua.hu/energia/apc-smart-ups-srt6krmxli-6000va-szunetmentes-tapegyseg-t483608
+név:APC Smart-UPS SRT6KRMXLI 6000VA szünetmentes tápegység
+ár: 1 855 990 Ft
 
 SSD:
 https://aqua.hu/ssd-meghajto/250gb-samsung-970-evo-plus-m2-ssd-meghajto-mz-v7s250bw-t755660
