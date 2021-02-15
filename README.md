@@ -19,4 +19,9 @@ ház:
 https://aqua.hu/szamitogephaz/cooler-master-masterbox-mb520-argb-tap-nelkuli-ablakos-haz-fekete-mcb-b520-kgnn-rga-t927107
 
 videókártya:
-https://aqua.hu/videokartya/asus-geforce-gtx-1660s-6gb-rog-strix-oc-gaming-videokartya-rog-strix-gtx1660s-o6g-gaming-t867975
+https://aqua.hu/videokartya/asus-geforce-rtx-3090-24gb-rog-strix-oc-edition-videokartya-rog-strix-rtx3090-o24g-gaming-t941413
+név:ASUS GeForce RTX 3090 24GB ROG Strix OC Edition videokártya
+ár:1 099 900 Ft
+
+
+ez mi a fene https://www.arukereso.hu/szamitogep-haz-c3085/azza/pyramid-804-csaz-804-p571341633/
